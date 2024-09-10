@@ -8,16 +8,6 @@ This repository contains a script designed for the Flipper Zero Bad Keyboard tha
 
 The script automates the execution of a PowerShell command that downloads and runs the Windows 10 Debloater GUI from a specified URL. This tool helps users remove unwanted bloatware and optimize their Windows 10 systems.
 
-## Script Description
-
-The script performs the following actions:
-
-1. **Delay**: Waits for 500 milliseconds to ensure the system is ready.
-2. **Open Run Dialog**: Simulates pressing `GUI + R` to open the Run dialog.
-3. **Delay**: Waits for another 500 milliseconds.
-4. **Execute Command**: Types a PowerShell command into the Run dialog that downloads and executes the Debloater GUI script from a specified Pastebin URL.
-5. **Submit Command**: Presses `ENTER` to execute the command.
-
 ### Script.txt
 
 ```plaintext
@@ -43,10 +33,6 @@ Once installed, the script can be executed via the Flipper Zero Bad Keyboard int
 ## Contributing
 
 Contributions are welcome! For details on contributing, please see our [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
