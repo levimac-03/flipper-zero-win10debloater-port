@@ -18,7 +18,7 @@ The script performs the following actions:
 4. **Execute Command**: Types a PowerShell command into the Run dialog that downloads and executes the Debloater GUI script from a specified Pastebin URL.
 5. **Submit Command**: Presses `ENTER` to execute the command.
 
-### Script
+### Script.txt
 
 ```plaintext
 REM Credit: @Levi-M-2024 @Sycnex-2021
@@ -32,14 +32,9 @@ ENTER
 
 ## Installation
 
-1. **Download**: Clone or download this repository from GitHub.
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```
+**Copy the Script**: Place the script file into the "Bad Keyboard" folder on your Flipper Zero SD card. Ensure your device is running Xtreme firmware.
 
-2. **Copy the Script**: Place the script file into the "Bad Keyboard" folder on your Flipper Zero SD card. Ensure your device is running Xtreme firmware.
-
-3. **Restart Your Flipper Zero**: After copying the file, restart your Flipper Zero to activate the script.
+**Restart Your Flipper Zero**: After copying the file, restart your Flipper Zero to activate the script.
 
 ## Usage
 
