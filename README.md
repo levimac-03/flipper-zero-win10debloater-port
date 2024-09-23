@@ -30,16 +30,9 @@ ENTER
 
 Once installed, the script can be executed via the Flipper Zero Bad Keyboard interface. It will automatically open a PowerShell window and run the Debloater GUI.
 
-## Contributing
-
-Contributions are welcome! For details on contributing, please see our [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Acknowledgements
 
 - Richard Newton (Sycnex) for the original Windows 10 Debloater GUI.
 - Levi-M-2024 for porting the script to Flipper Zero.
 - The Flipper Zero community for their ongoing support and contributions.
 
-## Contact
-
-For questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
